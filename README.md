@@ -68,3 +68,8 @@ It also reinforced that automation amplifies both capability and responsibility 
 
         pip install python3-nmap
 ### Run
+    python3 Nmapscanner.py
+#
+## ⚠️ Usage Warning
+This tool should only be used on systems you own or have explicit permission to scan.
+Unauthorized scanning may be illegal and unethical.
