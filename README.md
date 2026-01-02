@@ -75,6 +75,6 @@ This tool should only be used on systems you own or have explicit permission to 
 Unauthorized scanning may be illegal and unethical.
 #
 ## 📷 Preview
-<img width="343" height="338" alt="NM1" src="https://github.com/user-attachments/assets/0c6c6d7e-c187-4161-b25d-8830cdfc709e" />
+<img width="600" height="600" alt="NM1" src="https://github.com/user-attachments/assets/0c6c6d7e-c187-4161-b25d-8830cdfc709e" />
  
 #
